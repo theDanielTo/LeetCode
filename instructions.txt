@@ -24,5 +24,8 @@ Example 4:
 
 
 Constraints:
-
   -231 <= x <= 231 - 1
+
+Success details:
+Runtime: 88 ms, faster than 72.21% of JavaScript online submissions for Reverse Integer.
+Memory Usage: 40.5 MB, less than 56.42% of JavaScript online submissions for Reverse Integer.
