@@ -26,3 +26,7 @@ Example 4:
 
 Constraints:
 -231 <= x <= 231 - 1
+
+Success details:
+Runtime: 192 ms, faster than 46.98% of JavaScript online submissions for Palindrome Number.
+Memory Usage: 47.7 MB, less than 90.57% of JavaScript online submissions for Palindrome Number.
