@@ -33,3 +33,7 @@ Constraints:
 
 1 <= s.length <= 104
 s consists of parentheses only '()[]{}'.
+
+
+Runtime: 72 ms, faster than 83.37% of JavaScript online submissions for Valid Parentheses.
+Memory Usage: 39.7 MB, less than 47.65% of JavaScript online submissions for Valid Parentheses.
